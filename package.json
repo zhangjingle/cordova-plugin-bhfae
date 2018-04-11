@@ -1,0 +1,19 @@
+{
+  "name": "bhfae",
+  "version": "1.0.0",
+  "description": "bhfae app only",
+  "cordova": {
+    "id": "cordova-plugin-bhfae",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "dave",
+  "license": "ISC"
+}
