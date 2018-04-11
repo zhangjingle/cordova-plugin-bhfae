@@ -1,5 +1,5 @@
 {
-  "name": "bhfae",
+  "name": "cordova-plugin-bhfae",
   "version": "1.0.0",
   "description": "bhfae app only",
   "cordova": {
