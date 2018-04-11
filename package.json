@@ -9,11 +9,18 @@
       "ios"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangjingle/cordova-plugin-bhfae.git"
+  },
   "keywords": [
     "ecosystem:cordova",
     "cordova-android",
     "cordova-ios"
   ],
-  "author": "dave",
-  "license": "ISC"
+  "author": "zhangjingle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangjingle/cordova-plugin-bhfae/issues"
+  }
 }
